@@ -15,7 +15,7 @@
 
 ## Initializing the container
 
-    $ docker run -t -i --name=bigtable-dev patrinhani/gcloud-bigtable-hbase bash
+    $ docker run -t -i --name=gcloud-dev patrinhani/gcloud bash
 
 ## Configuring your Google Cloud Account into the container
 
